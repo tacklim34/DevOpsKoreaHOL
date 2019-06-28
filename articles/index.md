@@ -1,6 +1,6 @@
 # az203 hello
 
-Task autocomplate
+Task auto set
 
 # Azure DevOps HOL
 
